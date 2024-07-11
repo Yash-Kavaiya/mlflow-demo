@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-demo/mlruns/0/bf30be301f3d423d9c752a97bfe4ab04/artifacts
+end_time: 1720697939698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf30be301f3d423d9c752a97bfe4ab04
+run_name: stylish-shoat-887
+run_uuid: bf30be301f3d423d9c752a97bfe4ab04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720697937223
+status: 3
+tags: []
+user_id: codespace

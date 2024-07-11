@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-demo/mlruns/0/baf3ce0ff7824504842b177009932bbb/artifacts
+end_time: 1720697887209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baf3ce0ff7824504842b177009932bbb
+run_name: handsome-bug-786
+run_uuid: baf3ce0ff7824504842b177009932bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720697884576
+status: 3
+tags: []
+user_id: codespace

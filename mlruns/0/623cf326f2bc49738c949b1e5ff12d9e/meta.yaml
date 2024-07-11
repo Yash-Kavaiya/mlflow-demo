@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-demo/mlruns/0/623cf326f2bc49738c949b1e5ff12d9e/artifacts
+end_time: 1720697929545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623cf326f2bc49738c949b1e5ff12d9e
+run_name: awesome-fish-416
+run_uuid: 623cf326f2bc49738c949b1e5ff12d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720697927012
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-demo/mlruns/0/057fa6da7bee4f3cb99a6b3124a5d694/artifacts
+end_time: 1720697896809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 057fa6da7bee4f3cb99a6b3124a5d694
+run_name: rumbling-sponge-955
+run_uuid: 057fa6da7bee4f3cb99a6b3124a5d694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720697894333
+status: 3
+tags: []
+user_id: codespace
